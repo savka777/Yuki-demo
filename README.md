@@ -3,6 +3,8 @@
 > **Study smarter. Remember longer.**  
 > AI-powered spaced repetition that adapts to how you learn. Transform any content into effective study sessions.
 
+https://www.yuki-learn.com/ 
+
 ![Yuki Dashboard](/landing-header.png)
 
 ## Vision
@@ -18,6 +20,19 @@ Yuki is building **the Notion of study apps** - a unified knowledge interface wh
 
 ## Core Features
 
+Card deck
+----
+
+![Yuki Cards](/card-deck.png)
+
+Flash cards
+----
+
+![Yuki FlashCards](/flashcard.png)
+
+Generation
+----
+![Yuki Generate](/generate-cards.png)
 
 ### Smart Repetition
 Advanced algorithms powered by the SM-2 spaced repetition method, enhanced with machine learning to show you cards exactly when you need to review them for optimal long-term retention.
